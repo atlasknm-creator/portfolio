@@ -95,3 +95,42 @@ tasksテーブルはユーザー情報と関連付けて管理する
 アプリのスクリーンショット
 
 後ほどアプリ画面の画像を追加します。
+テスト・修正の設計及び実施書
+
+Week 11で作成したテスト・修正の設計及び実施書は、以下から確認できます。
+
+テスト・修正の設計及び実施書　ここにWeek11の資料URLを記入
+
+アプリの改善案
+
+Week 12で作成したアプリの改善案は、以下から確認できます。
+
+アプリの改善案
+
+使用技術
+
+Next.js
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Supabase
+
+GitHub
+
+Chrome DevTools（動作確認・デバッグ）
+
+GitHub Actions（自動テスト・品質チェック）
+
+GitHub Actions 実行結果
+
+ワークフローの実行結果を確認する　https://github.com/atlasknm-creator/portfolio/actions
+
+生成AIツールの利用
+
+ChatGPT：設計の整理、実装手順の確認、エラー解決の補助、READMEなどのドキュメント作成
+
+v0：画面デザインのプロトタイプ作成、UIの実装支援
