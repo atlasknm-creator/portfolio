@@ -95,7 +95,7 @@ https://todo-7f88qyibx-knm2.vercel.app/
 アプリのスクリーンショット
 
 ![仕事用ToDoリスト](todo-app.png)
-テスト・修正の設計及び実施書
+[テスト項目・実施書（Googleスプレッドシート）](https://docs.google.com/spreadsheets/d/1FLnBDI-f762KRUBi7GEdkXC_CcKxUQL6a1CzHtcTrUU/edit?gid=799863560#gid=799863560)
 
 Week 11で作成したテスト・修正の設計及び実施書は、以下から確認できます。
 
