@@ -90,8 +90,6 @@ https://todo-7f88qyibx-knm2.vercel.app/
 
 アプリURL
 
-デプロイ完了後に公開URLを記載します。
-
 アプリのスクリーンショット
 
 ![仕事用ToDoリスト](todo-app.png)
