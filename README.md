@@ -68,7 +68,7 @@ tasksテーブルはユーザー情報と関連付けて管理する
 
 アプリURL
 
-デプロイ完了後に公開URLを記載します。
+https://todo-7f88qyibx-knm2.vercel.app/
 
 アプリのスクリーンショット
 
